@@ -25,15 +25,15 @@ The core deliverable is the notebook: `QA_Automation_Multi_Agent_Workflow.ipynb`
 
 ```mermaid
 flowchart TB
-  A[QA_Automation_Multi_Agent_Workflow.ipynb]
-  A --> B[1) Overview & Scenario]
-  A --> C[2) Environment & Dependencies]
-  A --> D[3) Helpers]
-  A --> E[4) Mock Data & Supported Targets]
-  A --> F[5) Tools]
-  A --> G[6) Agents & Prompts]
-  A --> H[7) LangGraph Workflow]
-  A --> I[8) Execution Harness & Test Cases]
+  A["QA_Automation_Multi_Agent_Workflow.ipynb"]
+  A --> B["1. Overview & Scenario"]
+  A --> C["2. Environment & Dependencies"]
+  A --> D["3. Helpers"]
+  A --> E["4. Mock Data & Supported Targets"]
+  A --> F["5. Tools"]
+  A --> G["6. Agents & Prompts"]
+  A --> H["7. LangGraph Workflow"]
+  A --> I["8. Execution Harness & Test Cases"]
 ```
 
 ### 1) Overview & Scenario
