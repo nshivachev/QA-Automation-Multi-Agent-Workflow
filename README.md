@@ -83,7 +83,7 @@ flowchart TB
 
 - `execute_workflow(user_request: str)` runs the workflow end-to-end
 - HITL simulation queue helpers (`enqueue_hitl_responses`)
-- Example run + >= 5 assignment test cases (approve/revise flows)
+- Example test cases (approve/revise flows)
 
 ---
 
